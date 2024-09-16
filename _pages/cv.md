@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* PhD in Economics of Education, University College London (UCL), 2026 (expected)
+* **PhD in Economics of Education**, University College London (UCL), 2026 (expected)
 
-**Thesis:** The Impacts of Novel Upper Secondary Vocational Qualifications in the UK and English and Maths Resits
-* MMS in Economics (first class honours), University of Waikato, 2023
+    Thesis: _The Impacts of Novel Upper Secondary Vocational Qualifications in the UK and English and Maths Resits_
+* **MMS in Economics** (first class honours), University of Waikato, 2023
 
-**Thesis** Pro-environmental behaviour change for nature: Empirical and theoretical evidence from a field experiment in Aotearoa New Zealand
-* BBus in Economics and Chemistry, University of Waikato, 2021
+   Thesis: _Pro-environmental behaviour change for nature: Empirical and theoretical evidence from a field experiment in Aotearoa New Zealand_
+* **BBus in Economics and Chemistry**, University of Waikato, 2021
 
 Work experience
 ======
