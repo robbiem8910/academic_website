@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Economics of Education, University College London (UCL), 2026 (expected)
+
+**Thesis:** The Impacts of Novel Upper Secondary Vocational Qualifications in the UK and English and Maths Resits
+* MMS in Economics (first class honours), University of Waikato, 2023
+
+**Thesis** Pro-environmental behaviour change for nature: Empirical and theoretical evidence from a field experiment in Aotearoa New Zealand
+* BBus in Economics and Chemistry, University of Waikato, 2021
 
 Work experience
 ======
