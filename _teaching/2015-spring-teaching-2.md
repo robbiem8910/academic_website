@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "AARES 2023 Conference: Pre-Conference Workshop on RCTs"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/aares-preconf
+venue: "University of Canterbury"
+date: 2023-01-01
+location: "Christchurch, New Zealand"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Co-presenter for a workshop on RCTs for environmental and resource economics at the AARES 2023 annual conference.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
