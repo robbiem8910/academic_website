@@ -8,3 +8,4 @@ date: 2023-02-23
 venue: 'Australian Economic Review'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8462.12505'
 citation: 'R Maris & M Holmes. (2023). &quot;Economic growth theory and natural resource constraints: a stocktake and critical assessment.&quot; <i>Australian Economic Review</i>. 56(2).'
+---
