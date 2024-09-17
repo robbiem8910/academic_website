@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "An analysis of operating profit margin: a valuable tool for New Zealand dairy farmers"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/opm
+excerpt: 'Operating profit margin (OPM) is a well-supported and easily interpretable parameter from the DuPont framework for understanding firm performance. It has not been widely applied in the dairy industry, despite its role in driving profitability, resilience and debt serviceability in low subsidy export-oriented farming systems. We analyse the drivers of OPM in depth for the first time on New Zealand dairy farms. We utilise a 10-year panel dataset developed by applying simulation methods to sample and population data, giving a representative picture of the industry. We group farms into quartiles of their long-run OPM performance and perform non-parametric Games-Howell testing to investigate differences between the groups. We then estimate individual and time fixed effects panel regression models for the entire sample and each quartile separately to examine the factors driving changes in OPM over time. We add to the limited literature on the factors driving changes in OPM over time.'
+date: 2023-10-01
+venue: 'New Zealand Economic Papers'
+slidesurl: 'http://robbie-maris.github.io/files/opm.pdf'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/00779954.2022.2156383'
+citation: 'R Maris & Z Dorner (2023). &quot;An analysis of operating profit margin: a valuable tool for New Zealand dairy farmers.&quot; <i>New Zealand Economic Papers</i>. 57(3).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

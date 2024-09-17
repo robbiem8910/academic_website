@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Economic growth theory and natural resource constraints: a stocktake and critical assessment"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+permalink: /publication/growth-theory
+excerpt: 'Society is facing significant environmental challenges. The effects of climate change, biodiversity loss and environmental degradation are being increasingly felt worldwide. In recent years, researchers have attempted to adapt neoclassical and endogenous growth theory to account for constraints imposed by scarce natural resources. In this article, we review where, and how, researchers tend to incorporate natural resources and natural capital into growth theory. We then outline areas and questions that remain unanswered, including how novel impact investing and the eroding trade-off between GDP and the environment affect growth theory.'
+date: 2023-02-23
+venue: 'Australian Economic Review'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8462.12505'
+citation: 'R Maris & M Holmes. (2023). &quot;Economic growth theory and natural resource constraints: a stocktake and critical assessment.&quot; <i>Australian Economic Review</i>. 56(2).'

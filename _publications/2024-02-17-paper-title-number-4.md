@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Protecting and restoring freshwater biodiversity across urban areas in Aotearoa New Zealand: Citizens??? reporting of pollution in stormwater drains and waterways"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Urbanization poses numerous challenges to freshwater biodiversity. This paper describes two studies with the joint aim of demonstrating the benefits of applying a systematic behaviour change framework and providing the foundational knowledge to inform future behavior change work to protect and restore urban freshwater biodiversity. In Study 1 we used a mixed-methods research design, involving 14 key informant interviews followed by an online survey targeting 17 freshwater biodiversity experts and another targeting a representative sample of 550 urban residents, to identify and prioritize the most promising resident behaviors to target to reduce stormwater pollution and improve natural waterway habitats in urban areas. Study 2 focused on the top-ranked short-term behavior identified in Study 1, citizen reporting of pollution in stormwater drains and waterways. We surveyed a representative sample of 1901 urban residents across Aoteraoa New Zealand to identify four main determinants influencing this behavior: awareness and uncertainty about reporting, lack of opportunity to report, social motivation and personal motivation to report, and five potential target audiences: ???Supportive???, ???Unaware but receptive???, ???Motivated but lack support???, ???Reluctant???, and ???Not my problem???. We make recommendations for the most appropriate intervention designs to target each of these audience segments to promote the reporting of stormwater pollution in urban areas. This knowledge will allow for a more coordinated and effective approach for addressing the ???human element??? that lies at the heart of many urban freshwater management problems.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'Journal of Environmental Management'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0301479724000057'
+citation: 'L McLeod, D Hine, T Milfont, Z Dorner, N Tassell-Matamua, R Maris*, J Kitson, P Stahlmann-Brown (2024). &quot;Protecting and restoring freshwater biodiversity across urban areas in Aotearoa New Zealand: Citizens??? reporting of pollution in stormwater drains and waterways.&quot; <i>Journal of Environmental Management</i>. 351(1).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

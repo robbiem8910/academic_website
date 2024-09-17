@@ -7,5 +7,5 @@ excerpt: 'Student wellbeing is a key concern for those delivering tertiary educa
 date: 2024-03-06
 venue: 'Higher Education Research and Development'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/07294360.2024.2339838'
-citation: 'N Stanley-Clarke, A Hay,** R Maris**, A Ryan, J Knook & L Winder. (2024). &quot;Optimism Bias as a Barrier to Accessing Mental Health Support Amongst Tertiary Students.&quot; <i>Higher Education Research and Development 1</i>. 1(1).'
+citation: 'N Stanley-Clarke, A Hay, R Maris*, A Ryan, J Knook & L Winder. (2024). &quot;Optimism Bias as a Barrier to Accessing Mental Health Support Amongst Tertiary Students.&quot; <i>Higher Education Research and Development</i>.'
 ---
