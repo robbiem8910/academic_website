@@ -10,5 +10,4 @@ paperurl: 'https://reunido.uniovi.es/index.php/EBL/article/view/18289'
 citation: 'R Maris and M Cameron (2023). &quot;The labour market trade-offs of pet ownership.&quot; <i>Economics and Business Letters</i>. 12(1).'
 ---
 
-A working paper version is available [here](https://repec.its.waikato.ac.nz/wai/econwp/2203.pdf).
----
+## A working paper version is available [here](https://repec.its.waikato.ac.nz/wai/econwp/2203.pdf).
