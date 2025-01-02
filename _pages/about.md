@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Overview"
-<meta name="google-site-verification" content="f7Dl2QdB6kJRaUz4Ku7C2oI57tMYnVmncLIvrSTqiLo" />
 author_profile: true
 redirect_from: 
   - /about/
